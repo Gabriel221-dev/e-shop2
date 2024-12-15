@@ -1,7 +1,5 @@
 // import Image from "next/image";
 
-import About from "@/pages/About";
-
 export default function Home() {
   return (
     <div>
@@ -12,7 +10,6 @@ export default function Home() {
       <p>
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta, quasi!
       </p>
-      <About />
     </div>
   );
 }
